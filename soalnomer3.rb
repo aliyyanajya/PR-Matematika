@@ -1,3 +1,12 @@
+###############################################################################
+#  Tugas lingkaran sebagai prasyarat ulangan
+#  Mapel Matematika
+#
+#  Soal Nomer 3
+#  Menghitung biaya menanam pohon pada taman berbentuk lingkaran 
+#
+# Author: Aliyya N. Aurelia
+################################################################################
 JariJariLingkaran = 35
 JarakPohonCemara = 1
 HargaSatuPohon = 25000
