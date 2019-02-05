@@ -1,3 +1,12 @@
+###############################################################################
+#  Tugas lingkaran sebagai prasyarat ulangan
+#  Mapel Matematika
+#
+#  Soal Nomer 4
+#  Mencari jari jari lingkaran yang lain 
+#
+# Author: Aliyya N. Aurelia
+################################################################################
 GSPD = 8
 JarakAntarTitikPusatLingkaran = 17
 R1 = 10
