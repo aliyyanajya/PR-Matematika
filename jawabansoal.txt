@@ -1,3 +1,12 @@
+###############################################################################
+#  Tugas lingkaran sebagai prasyarat ulangan
+#  Mapel Matematika
+#
+#  jawaban soal 1-6
+#
+# Author: Aliyya N. Aurelia
+#################################################################################
+
 1)  Dua buah lingkaran memiliki panjang garis singgung persekutuan luar 24 cm
 dan jarak kedua titik pusat lingkaran 26 cm. Jika panjang jari-jari lingkaran
 besar 18 cm, maka panjang jari-jari lingkaran yang lain adalah …
